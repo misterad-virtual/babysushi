@@ -1,0 +1,267 @@
+.elementor-kit-8{--e-global-color-primary:#000000;--e-global-color-secondary:#FFFFFF;--e-global-color-text:#000000;--e-global-color-accent:#E100FF;--e-global-color-5aba2164:RGBA(255, 255, 255, 0.4);--e-global-color-41d65ee1:RGBA(0, 0, 0, 0.24);--e-global-color-6c0a590c:#878787;--e-global-color-1e7abff7:RGBA(0, 0, 0, 0);--e-global-color-b76fc81:RGBA(0, 0, 0, 0.08);--e-global-color-b3d9cb9:#1C1D20;--e-global-color-9c06a33:#F6F6F6;--e-global-color-edb0d9a:#FFFFFF7A;--e-global-color-b0b8dd6:#161A20;--e-global-color-cc81472:#E7E7E7;--e-global-color-5c85401:#E100FF;--e-global-color-5d38abd:#7F00FF;--e-global-color-fef4fed:#00C6FF;--e-global-color-89bd36a:#0072FF;--e-global-color-fb740b6:#FFE259;--e-global-color-3d56003:#FFA751;--e-global-color-50fa85c:#00894C;--e-global-color-fa29c3a:#C4FFE5;--e-global-color-c02b8b1:#894C00;--e-global-color-702b28b:#FFE5C4;--e-global-color-fe2cb32:#89003D;--e-global-color-eeee85f:#FFC4DE;--e-global-typography-primary-font-family:"Ubuntu";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Ubuntu";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Public Sans";--e-global-typography-text-font-size:18px;--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:1.25em;--e-global-typography-accent-font-family:"Ubuntu";--e-global-typography-accent-font-weight:500;--e-global-typography-c083628-font-family:"Caveat Brush";--e-global-typography-c083628-font-size:20px;--e-global-typography-d44a64d-font-family:"Ubuntu";--e-global-typography-d44a64d-font-size:80px;--e-global-typography-d44a64d-font-weight:bold;--e-global-typography-d44a64d-text-transform:none;--e-global-typography-d44a64d-font-style:normal;--e-global-typography-d44a64d-text-decoration:none;--e-global-typography-d44a64d-line-height:1.08em;--e-global-typography-d44a64d-letter-spacing:1.2px;--e-global-typography-c6a8394-font-family:"Ubuntu";--e-global-typography-c6a8394-font-size:52px;--e-global-typography-c6a8394-font-weight:bold;--e-global-typography-c6a8394-text-transform:none;--e-global-typography-c6a8394-font-style:normal;--e-global-typography-c6a8394-text-decoration:none;--e-global-typography-c6a8394-line-height:1.063em;--e-global-typography-c6a8394-letter-spacing:0.52px;--e-global-typography-2a8e2f9-font-family:"Ubuntu";--e-global-typography-2a8e2f9-font-size:20px;--e-global-typography-2a8e2f9-font-weight:bold;--e-global-typography-2a8e2f9-text-transform:none;--e-global-typography-2a8e2f9-font-style:normal;--e-global-typography-2a8e2f9-line-height:1.35em;--e-global-typography-2a8e2f9-letter-spacing:0.48px;--e-global-typography-e57d075-font-family:"Ubuntu";--e-global-typography-e57d075-font-size:16px;--e-global-typography-e57d075-font-weight:bold;--e-global-typography-e57d075-text-transform:none;--e-global-typography-e57d075-font-style:normal;--e-global-typography-c06a638-font-family:"Public Sans";--e-global-typography-c06a638-font-size:20px;--e-global-typography-c06a638-font-weight:500;--e-global-typography-c06a638-text-transform:none;--e-global-typography-c06a638-font-style:normal;--e-global-typography-c06a638-line-height:1.35em;--e-global-typography-c06a638-letter-spacing:0.3px;--e-global-typography-b40492f-font-family:"Public Sans";--e-global-typography-b40492f-font-size:16px;--e-global-typography-b40492f-font-weight:500;--e-global-typography-b40492f-text-transform:none;--e-global-typography-b40492f-font-style:normal;--e-global-typography-b40492f-line-height:1.5em;--e-global-typography-b40492f-letter-spacing:0.384px;--e-global-typography-8cf9722-font-family:"Public Sans";--e-global-typography-8cf9722-font-size:16px;--e-global-typography-8cf9722-font-weight:500;--e-global-typography-8cf9722-text-transform:none;--e-global-typography-8cf9722-font-style:normal;--e-global-typography-cc30ff1-font-family:"Ubuntu";--e-global-typography-cc30ff1-font-weight:500;--e-global-typography-cc30ff1-text-transform:none;--e-global-typography-cc30ff1-font-style:normal;--e-global-typography-9654060-font-family:"Public Sans";--e-global-typography-9654060-font-size:16px;--e-global-typography-9654060-font-weight:500;--e-global-typography-9654060-text-transform:none;--e-global-typography-9654060-font-style:normal;--e-global-typography-9654060-text-decoration:none;--e-global-typography-9654060-letter-spacing:0.48px;--e-global-typography-e10918e-font-family:"Public Sans";--e-global-typography-e10918e-font-size:16px;--e-global-typography-e10918e-font-weight:600;--e-global-typography-e10918e-text-transform:none;--e-global-typography-e10918e-font-style:normal;--e-global-typography-2a84e3f-font-family:"Public Sans";--e-global-typography-2a84e3f-font-size:13px;--e-global-typography-2a84e3f-font-weight:600;--e-global-typography-2a84e3f-text-transform:none;--e-global-typography-2a84e3f-font-style:normal;--e-global-typography-2a84e3f-line-height:1.063em;--e-global-typography-2a84e3f-letter-spacing:0.26px;--e-global-typography-f5f2bb5-font-family:"Ubuntu";--e-global-typography-f5f2bb5-font-size:52px;--e-global-typography-f5f2bb5-font-weight:bold;--e-global-typography-f5f2bb5-text-transform:none;--e-global-typography-f5f2bb5-font-style:normal;--e-global-typography-f5f2bb5-text-decoration:none;--e-global-typography-f5f2bb5-line-height:1.5em;--e-global-typography-f5f2bb5-letter-spacing:0.52px;--e-global-typography-816e8b8-font-family:"Public Sans";--e-global-typography-816e8b8-font-size:52px;--e-global-typography-816e8b8-font-weight:500;--e-global-typography-816e8b8-line-height:1.063em;--e-global-typography-816e8b8-letter-spacing:0.52px;font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}.elementor-kit-8 a{color:var( --e-global-color-secondary );text-decoration:underline;}.elementor-kit-8 a:hover{color:var( --e-global-color-5c85401 );text-decoration:underline;}.elementor-kit-8 button,.elementor-kit-8 input[type="button"],.elementor-kit-8 input[type="submit"],.elementor-kit-8 .elementor-button{font-family:var( --e-global-typography-9654060-font-family ), Sans-serif;font-size:var( --e-global-typography-9654060-font-size );font-weight:var( --e-global-typography-9654060-font-weight );text-transform:var( --e-global-typography-9654060-text-transform );font-style:var( --e-global-typography-9654060-font-style );text-decoration:var( --e-global-typography-9654060-text-decoration );line-height:var( --e-global-typography-9654060-line-height );letter-spacing:var( --e-global-typography-9654060-letter-spacing );color:var( --e-global-color-primary );background-color:var( --e-global-color-secondary );border-style:solid;border-width:2px 2px 2px 2px;border-color:var( --e-global-color-secondary );border-radius:50px 50px 50px 50px;padding:14px 30px 14px 30px;}.elementor-kit-8 button:hover,.elementor-kit-8 button:focus,.elementor-kit-8 input[type="button"]:hover,.elementor-kit-8 input[type="button"]:focus,.elementor-kit-8 input[type="submit"]:hover,.elementor-kit-8 input[type="submit"]:focus,.elementor-kit-8 .elementor-button:hover,.elementor-kit-8 .elementor-button:focus{color:var( --e-global-color-primary );background-color:var( --e-global-color-cc81472 );border-style:solid;border-width:2px 2px 2px 2px;border-color:var( --e-global-color-cc81472 );border-radius:50px 50px 50px 50px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1200px;}.elementor-widget:not(:last-child){margin-bottom:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1235px){.elementor-kit-8{--e-global-typography-d44a64d-font-size:52px;--e-global-typography-d44a64d-line-height:1.08em;--e-global-typography-d44a64d-letter-spacing:0.78px;--e-global-typography-c6a8394-font-size:40px;--e-global-typography-c6a8394-line-height:1.063em;--e-global-typography-c6a8394-letter-spacing:0.4px;--e-global-typography-2a8e2f9-font-size:20px;--e-global-typography-2a8e2f9-line-height:1.35em;--e-global-typography-2a8e2f9-letter-spacing:0.48px;--e-global-typography-e57d075-font-size:16px;--e-global-typography-c06a638-font-size:20px;--e-global-typography-c06a638-line-height:1.35em;--e-global-typography-c06a638-letter-spacing:0.3px;--e-global-typography-b40492f-font-size:16px;--e-global-typography-b40492f-line-height:1.5em;--e-global-typography-b40492f-letter-spacing:0.384px;--e-global-typography-8cf9722-font-size:16px;--e-global-typography-9654060-font-size:16px;--e-global-typography-9654060-letter-spacing:0.48px;--e-global-typography-e10918e-font-size:16px;--e-global-typography-2a84e3f-font-size:13px;--e-global-typography-2a84e3f-line-height:1.063em;--e-global-typography-2a84e3f-letter-spacing:0.26px;--e-global-typography-f5f2bb5-font-size:40px;--e-global-typography-f5f2bb5-line-height:1.5em;--e-global-typography-f5f2bb5-letter-spacing:0.4px;--e-global-typography-816e8b8-font-size:40px;--e-global-typography-816e8b8-line-height:1.063em;--e-global-typography-816e8b8-letter-spacing:0.4px;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-kit-8 button,.elementor-kit-8 input[type="button"],.elementor-kit-8 input[type="submit"],.elementor-kit-8 .elementor-button{font-size:var( --e-global-typography-9654060-font-size );line-height:var( --e-global-typography-9654060-line-height );letter-spacing:var( --e-global-typography-9654060-letter-spacing );border-width:2px 2px 2px 2px;padding:14px 30px 14px 30px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-kit-8{--e-global-typography-text-font-size:18px;--e-global-typography-text-line-height:26px;--e-global-typography-d44a64d-font-size:32px;--e-global-typography-d44a64d-line-height:1.08em;--e-global-typography-d44a64d-letter-spacing:0.6px;--e-global-typography-c6a8394-font-size:32px;--e-global-typography-c6a8394-line-height:1.063em;--e-global-typography-c6a8394-letter-spacing:0.32px;--e-global-typography-2a8e2f9-font-size:16px;--e-global-typography-2a8e2f9-line-height:1.35em;--e-global-typography-2a8e2f9-letter-spacing:0.384px;--e-global-typography-e57d075-font-size:16px;--e-global-typography-c06a638-font-size:16px;--e-global-typography-c06a638-line-height:1.35em;--e-global-typography-c06a638-letter-spacing:0.24px;--e-global-typography-b40492f-font-size:16px;--e-global-typography-b40492f-line-height:1.5em;--e-global-typography-b40492f-letter-spacing:0.384px;--e-global-typography-8cf9722-font-size:16px;--e-global-typography-cc30ff1-font-size:16px;--e-global-typography-cc30ff1-letter-spacing:0.4px;--e-global-typography-9654060-font-size:16px;--e-global-typography-9654060-letter-spacing:0.48px;--e-global-typography-e10918e-font-size:16px;--e-global-typography-2a84e3f-font-size:13px;--e-global-typography-2a84e3f-line-height:1.063em;--e-global-typography-2a84e3f-letter-spacing:0.26px;--e-global-typography-f5f2bb5-font-size:32px;--e-global-typography-f5f2bb5-line-height:1.5em;--e-global-typography-f5f2bb5-letter-spacing:0.32px;--e-global-typography-816e8b8-font-size:20px;--e-global-typography-816e8b8-line-height:1.063em;--e-global-typography-816e8b8-letter-spacing:0.4px;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-kit-8 button,.elementor-kit-8 input[type="button"],.elementor-kit-8 input[type="submit"],.elementor-kit-8 .elementor-button{font-size:var( --e-global-typography-9654060-font-size );line-height:var( --e-global-typography-9654060-line-height );letter-spacing:var( --e-global-typography-9654060-letter-spacing );border-width:2px 2px 2px 2px;padding:14px 62px 14px 62px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start custom CSS *//*
+
+AANGEPASTE CSS CODES
+      door ChangMade
+
+Let op!
+Wijzigingen in dit 
+venster kunnen jouw
+website permanent 
+beschadigen.
+
+Voer ALLEEN wijzigingen
+door als je voldoende
+kennis hebt van CSS.
+
+Hulp nodig?
+We helpen je graag.
+Ga naar
+https://changmade.com.
+
+*/
+
+/*-------------------
+       BEGIN
+   Sticky header
+-------------------*/
+
+header.sticky-header {
+    --header-height: 90px;
+    --opacity: 1;
+    --shrink-me: 0.5;
+    --sticky-background-color: #00000099;
+    --transition: .3s ease-in-out;
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+
+    transition: background-color var(--transition),
+                background-image var(--transition),
+                backdrop-filter var(--transition),
+                opacity var(--transition);
+}
+header.sticky-header.elementor-sticky--effects {
+    background-color: var(--sticky-background-color) !important;
+    background-image: none !important;
+    opacity: var(--opacity) !important;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
+header.sticky-header > .elementor-container {
+    transition: min-height var(--transition);
+}
+header.sticky-header.elementor-sticky--effects > .elementor-container {
+    min-height: calc(var(--header-height) * var(--shrink-me))!important;
+    height: calc(var(--header-height) * var(--shrink-me));
+}
+header.sticky-header .elementor-nav-menu .elementor-item {
+    transition: padding var(--transition);
+}
+header.sticky-header.elementor-sticky--effects .elementor-nav-menu .elementor-item {
+    padding-bottom: 10px!important;
+    padding-top: 10px!important;
+}
+
+
+/*-------------------
+       EINDE
+   Sticky header
+-------------------*/
+
+/*-------------------
+       BEGIN
+   Sticky header grijs
+-------------------*/
+
+header.sticky-header-grijs {
+    --header-height: 90px;
+    --opacity: 1;
+    --shrink-me: 0.5;
+    --sticky-background-color: #1C1D2099;
+    --transition: .3s ease-in-out;
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+
+    transition: background-color var(--transition),
+                background-image var(--transition),
+                backdrop-filter var(--transition),
+                opacity var(--transition);
+}
+header.sticky-header-grijs.elementor-sticky--effects {
+    background-color: var(--sticky-background-color) !important;
+    background-image: none !important;
+    opacity: var(--opacity) !important;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
+header.sticky-header.grijs > .elementor-container {
+    transition: min-height var(--transition);
+}
+header.sticky-header-grijs.elementor-sticky--effects > .elementor-container {
+    min-height: calc(var(--header-height) * var(--shrink-me))!important;
+    height: calc(var(--header-height) * var(--shrink-me));
+}
+header.sticky-header-grijs .elementor-nav-menu .elementor-item {
+    transition: padding var(--transition);
+}
+header.sticky-header-grijs.elementor-sticky--effects .elementor-nav-menu .elementor-item {
+    padding-bottom: 10px!important;
+    padding-top: 10px!important;
+}
+
+
+/*-------------------
+       EINDE
+   Sticky header
+-------------------*/
+
+/*-------------------
+       BEGIN
+   Frosted glass
+-------------------*/
+
+.frosted-glass {
+    background: linear-gradient(135deg, #FFFFFF80, #00000000);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+}
+
+/*-------------------
+       EINDE
+   Frosted glass
+-------------------*/
+
+/*-------------------
+       BEGIN
+Animatie tekstkleur
+-------------------*/
+
+.hero-animatie { background: linear-gradient(to left, #e100ff, #7f00ff, #00c6ff, #0072ff, #e100ff);
+  background-size: 400%;
+  background-position: 0% 0%;
+  color: transparent;
+  -webkit-background-clip: text;
+  animation: gradient 18s linear infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 0%;
+    }
+    25% {
+        background-position: 100% 0%;
+    }
+    50% {
+        background-position: 200% 0%;
+    }
+  75% {
+    background-position: 300% 0%;
+  }
+  100% {
+    background-position: 400% 0%;
+  }
+}
+/*-------------------
+       EINDE
+Animatie tekstkleur
+-------------------*/
+
+/*-------------------
+       BEGIN
+   Tekstverlopen
+-------------------*/
+.tekstverloop-blauw{
+  background: linear-gradient(40deg, #05ABFF 40%, #00C6DD);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.tekstverloop-paars{
+  background: linear-gradient(40deg, #8E01FB 40%, #455FFD);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/*-------------------
+       EINDE
+   Tekstverlopen
+-------------------*/
+
+/*-------------------
+       BEGIN
+   Tekstaccenten
+-------------------*/
+.witte-tekst {
+    color: #ffffff;
+}
+
+
+/* -- AANGEPASTE LINKS -- */
+
+.witte-tekst a:link {
+  color: #FFFFFF;
+}
+
+.witte-tekst a:visited {
+  color: #FFFFFF;
+}
+
+.witte-tekst a:hover {
+  color: #FFFFFF !important;
+  text-decoration: underline !important;
+}
+
+.witte-tekst a:active {
+  color: #FFFFFF !important;
+  text-decoration: underline !important;
+}
+
+/* -- AANGEPASTE TEKST -- */
+.gradient-tekst{
+  background: linear-gradient(40deg, #9409F9 40%, #B304E9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.h-naar-p{
+    font-size: 18px;
+}
+
+.h-naar-p-klein{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* -- AANGEPASTE KNOP -- */
+.knop-wit-paars{
+    background-color: #fff;
+    border-radius: 25px;
+}
+
+.knop-wit-paars:hover {
+    background-color: linear-gradient(40deg, #890EE3 40%, #B304E9 100%);
+    border: 0px;
+}
+
+.verloop-knop a{
+    background: linear-gradient(140deg, #E100FF 0%, #7F00FF 90%);
+}
+.verloop-knop a:hover{
+    background: #ffffff;
+}
+
+.donker-knop a{
+    background: #1F284C;
+}
+.donker-knop a:hover{
+    background: linear-gradient(40deg, #1F284C 0%, #6D738A 100%);
+}
+
+.doorzichtig-knop a{
+    background: transparent;
+    border: 2px solid #1F284C;
+    
+}
+.doorzichtig-knop a:hover{
+    background: linear-gradient(40deg, #890EE3 0%, #B304E9 100%);
+    border: 2px solid #ffffff00;
+}/* End custom CSS */
